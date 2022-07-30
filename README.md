@@ -2,6 +2,8 @@
 
 ## Biografia
 
+#Sempre quis trabalhar com programação, mas acabei desistindo na época por achar que eu não ia conseguir aprender, acabei me formando na área de Logística e depois fiz pós-graduação em Gestão de Pessoas. Não estava feliz na área que eu tinha me formado, então na semana do meu aniversário de 31 anos, conversei com a minha esposa sobre mudar de área e ela me deu a maior força. E hoje com 31 anos sou um desenvolvedor em desenvolvimento.
+
 
 
 <div align="center">
