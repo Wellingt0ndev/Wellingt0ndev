@@ -8,7 +8,7 @@ Sempre quis trabalhar com programação, mas acabei desistindo na época por ach
 
 <div align="center">
   <a href="https://github.com/Wellingt0ndev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingt0ndev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingt0ndev&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingt0ndev&layout=compact&langs_count=7&theme=dark"/>
   
   ##
