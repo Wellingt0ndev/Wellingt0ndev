@@ -10,7 +10,7 @@ Sempre quis trabalhar com programação, mas acabei desistindo na época por ach
   <a href="https://github.com/Wellingt0ndev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingt0ndev&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingt0ndev&layout=compact&langs_count=7&theme=dark"/>
-  
+  (https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   ##
   <a href="https://www.instagram.com/wellington_006/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href = "mailto:wellingtonfs50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
